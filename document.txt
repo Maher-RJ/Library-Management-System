@@ -3,3 +3,5 @@
 3. Create an empty database with name 'library_management' on MySQL(phpmyadmin) with port 3306 or you can change the configuration
 from the 'application.properties' file. 
 4. The main file is in the 'com.webapp.spring' package named as WebappApplication.java
+
+I use SpringToolSuite4 and Xampp to start my mysql and apache web server with localhost:8080
