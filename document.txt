@@ -1,5 +1,0 @@
-1. All the jsp views are in src/main/webapp/WEB-INF/jsp
-2. All the business logic is in the 'com.webapp.spring.services' package
-3. Create an empty database with name 'library_management' on MySQL(phpmyadmin) with port 3306 or you can change the configuration
-from the 'application.properties' file. 
-4. The main file is in the 'com.webapp.spring' package named as WebappApplication.java
